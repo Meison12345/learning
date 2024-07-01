@@ -1,0 +1,7 @@
+:root {
+  --active-btn: rgb(34,34,102);
+}
+
+.header__nav-link:hover {
+  background: var(--active-btn);
+}/*# sourceMappingURL=effect.css.map */
