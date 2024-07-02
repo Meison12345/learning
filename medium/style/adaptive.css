@@ -1,0 +1,13 @@
+@media screen and (max-width: 1480px) {
+  .news--item-wrapper {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .news-title {
+    text-align: center;
+  }
+  .prefooter-nav-list {
+    justify-content: center;
+  }
+}/*# sourceMappingURL=adaptive.css.map */
