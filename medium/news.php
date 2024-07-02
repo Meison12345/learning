@@ -45,7 +45,16 @@
     </section>
 
 
+
+
+    <div class="modal">
+        <div class="modal-content">
+            <img id="modal-img" src="/img/mininews.png" alt="Модалка">
+        </div>
+    </div>
+
     <?php include 'footer.php'; ?>
+    <script src="/js/app.js"></script>
 </body>
 
 </html>
